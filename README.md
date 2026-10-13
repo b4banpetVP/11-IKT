@@ -1,4 +1,4 @@
 # 11-IKT
-Az 11. éves IKT feladataim.
+A 11. éves IKT feladataim.
 
 Kedves Korom Richard óráin.<3
